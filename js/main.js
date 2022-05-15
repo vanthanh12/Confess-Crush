@@ -134,7 +134,7 @@ $('#yes').click(function() {
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = CONFIG.messLink;
+//                     window.location = CONFIG.messLink;
                 }
             })
         }
